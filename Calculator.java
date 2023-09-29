@@ -181,6 +181,347 @@ public class Calculator {
                 System.out.println("Result: " + result);
                 break;
 
+            case 17:
+                result = num1 * 4.929;
+                System.out.println("Result: " + result);
+                break;
+
+            case 18:
+                result = num1 / 202.9;
+                System.out.println("Result: " + result);
+                break;
+
+            case 19:
+                result = num1 / 3;
+                System.out.println("Result: " + result);
+                break;
+
+            case 20:
+                result = num1 / 6;
+                System.out.println("Result: " + result);
+                break;
+
+            case 21:
+                result = num1 / 48.692;
+                System.out.println("Result: " + result);
+                break;
+
+            case 22:
+                result = num1 / 96;
+                System.out.println("Result: " + result);
+                break;
+
+            case 23:
+                result = num1 / 192;
+                System.out.println("Result: " + result);
+                break;
+
+            case 24:
+                result = num1 / 768;
+                System.out.println("Result: " + result);
+                break;
+
+            case 25:
+                result = num1 * 14.787;
+                System.out.println("Result: " + result);
+                break;
+
+            case 26:
+                result = num1 / 67.628;
+                System.out.println("Result: " + result);
+                break;
+
+            case 27:
+                result = num1 * 3;
+                System.out.println("Result: " + result);
+                break;
+
+            case 28:
+                result = num1 / 2;
+                System.out.println("Result: " + result);
+                break;
+
+            case 29:
+                result = num1 / 16.231;
+                System.out.println("Result: " + result);
+                break;
+
+            case 30:
+                result = num1 / 32;
+                System.out.println("Result: " + result);
+                break;
+
+            case 31:
+                result = num1 / 64;
+                System.out.println("Result: " + result);
+                break;
+
+            case 32:
+                result = num1 / 256;
+                System.out.println("Result: " + result);
+                break;
+
+            case 33:
+                result = num1 * 29.574;
+                System.out.println("Result: " + result);
+                break;
+
+            case 34:
+                result = num1 / 33.814;
+                System.out.println("Result: " + result);
+                break;
+
+            case 35:
+                result = num1 * 6;
+                System.out.println("Result: " + result);
+                break;
+
+            case 36:
+                result = num1 * 2;
+                System.out.println("Result: " + result);
+                break;
+
+            case 37:
+                result = num1 / 8.115;
+                System.out.println("Result: " + result);
+                break;
+
+            case 38:
+                result = num1 / 16;
+                System.out.println("Result: " + result);
+                break;
+
+            case 39:
+                result = num1 / 32;
+                System.out.println("Result: " + result);
+                break;
+
+            case 40:
+                result = num1 / 128;
+                System.out.println("Result: " + result);
+                break;
+
+            case 41:
+                result = num1 * 240;
+                System.out.println("Result: " + result);
+                break;
+
+            case 42:
+                result = num1 / 4.167;
+                System.out.println("Result: " + result);
+                break;
+
+            case 43:
+                result = num1 * 48.692;
+                System.out.println("Result: " + result);
+                break;
+
+            case 44:
+                result = num1 * 16.231;
+                System.out.println("Result: " + result);
+                break;
+
+            case 45:
+                result = num1 * 8.115;
+                System.out.println("Result: " + result);
+                break;
+
+            case 46:
+                result = num1 / 1.972;
+                System.out.println("Result: " + result);
+                break;
+
+            case 47:
+                result = num1 / 3.943;
+                System.out.println("Result: " + result);
+                break;
+
+            case 48:
+                result = num1 / 15.772;
+                System.out.println("Result: " + result);
+                break;
+
+            case 49:
+                result = num1 * 473.2;
+                System.out.println("Result: " + result);
+                break;
+
+            case 50:
+                result = num1 / 2.113;
+                System.out.println("Result: " + result);
+                break;
+
+            case 51:
+                result = num1 * 96;
+                System.out.println("Result: " + result);
+                break;
+
+            case 52:
+                result = num1 * 32;
+                System.out.println("Result: " + result);
+                break;
+
+            case 53:
+                result = num1 * 16;
+                System.out.println("Result: " + result);
+                break;
+
+            case 54:
+                result = num1 * 1.972;
+                System.out.println("Result: " + result);
+                break;
+
+            case 55:
+                result = num1 / 2;
+                System.out.println("Result: " + result);
+                break;
+
+            case 56:
+                result = num1 / 8;
+                System.out.println("Result: " + result);
+                break;
+
+            case 57:
+                result = num1 * 946.4;
+                System.out.println("Result: " + result);
+                break;
+
+            case 58:
+                result = num1 / 1.057;
+                System.out.println("Result: " + result);
+                break;
+
+            case 59:
+                result = num1 * 192;
+                System.out.println("Result: " + result);
+                break;
+
+            case 60:
+                result = num1 * 64;
+                System.out.println("Result: " + result);
+                break;
+
+            case 61:
+                result = num1 * 32;
+                System.out.println("Result: " + result);
+                break;
+
+            case 62:
+                result = num1 * 3.943;
+                System.out.println("Result: " + result);
+                break;
+
+            case 63:
+                result = num1 * 2;
+                System.out.println("Result: " + result);
+                break;
+
+            case 64:
+                result = num1 / 4;
+                System.out.println("Result: " + result);
+                break;
+
+            case 65:
+                result = num1 * 3785;
+                System.out.println("Result: " + result);
+                break;
+
+            case 66:
+                result = num1 * 3.785;
+                System.out.println("Result: " + result);
+                break;
+
+            case 67:
+                result = num1 * 768;
+                System.out.println("Result: " + result);
+                break;
+
+            case 68:
+                result = num1 * 256;
+                System.out.println("Result: " + result);
+                break;
+
+            case 69:
+                result = num1 * 128;
+                System.out.println("Result: " + result);
+                break;
+
+            case 70:
+                result = num1 * 15.773;
+                System.out.println("Result: " + result);
+                break;
+
+            case 71:
+                result = num1 * 8;
+                System.out.println("Result: " + result);
+                break;
+
+            case 72:
+                result = num1 * 4;
+                System.out.println("Result: " + result);
+                break;
+
+            case 73:
+                result = num1 / 1e+6;
+                System.out.println("Result: " + result);
+                break;
+
+            case 74:
+                result = num1 / 16.387;
+                System.out.println("Result: " + result);
+                break;
+
+            case 75:
+                result = num1 / 28320;
+                System.out.println("Result: " + result);
+                break;
+
+            case 76:
+                result = num1 * 1e+6;
+                System.out.println("Result: " + result);
+                break;
+
+            case 77:
+                result = num1 * 61020;
+                System.out.println("Result: " + result);
+                break;
+
+            case 78:
+                result = num1 * 35.315;
+                System.out.println("Result: " + result);
+                break;
+
+            case 79:
+                result = num1 * 16.387;
+                System.out.println("Result: " + result);
+                break;
+
+            case 80:
+                result = num1 / 61020;
+                System.out.println("Result: " + result);
+                break;
+
+            case 81:
+                result = num1 / 1728;
+                System.out.println("Result: " + result);
+                break;
+
+            case 82:
+                result = num1 * 28320;
+                System.out.println("Result: " + result);
+                break;
+
+            case 83:
+                result = num1 / 35.315;
+                System.out.println("Result: " + result);
+                break;
+
+            case 84:
+                result = num1 * 1728;
+                System.out.println("Result: " + result);
+                break;
+
+
             default:
                 System.out.println("Invalid conversion type.");
 
